@@ -14,7 +14,7 @@ namespace ConsoleApp1
 
 
             Random rnd = new Random();
-            int randomNumber = rnd.Next(1, 101);
+            int randomNumber = rnd.Next(1, 501);
             int arv1 = 0;
 
             Console.WriteLine("Arva ära suvaline number");
